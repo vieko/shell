@@ -218,7 +218,7 @@
         </key>
 
         <key type="s" name="hint-color-rgba">
-            <default>'rgba(251, 184, 108, 1)'</default>
+            <default>'rgba(189, 147, 249, 1)'</default>
             <summary>The current active-hint-color in RGBA</summary>
         </key>
         <key type="u" name="log-level">
