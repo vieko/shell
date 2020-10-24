@@ -1,6 +1,7 @@
 .pop-shell-active-hint {
   border-style: solid;
-  border-color: #fbb86c;
+  /* border-color: #fbb86c; */
+  border-color: #bd93f9;
   border-radius: 0;
   box-shadow: inset 0 0 0 1px rgba(24, 23, 23, 0);
 }
@@ -50,7 +51,8 @@
 }
 
 .pop-shell-tab-active {
-  background: #fbb86c;
+  /* background: #fbb86c; */
+  background: #bd93f9;
 }
 
 .pop-shell-tab-inactive {
