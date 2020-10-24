@@ -1,62 +1,62 @@
 .pop-shell-active-hint {
-    border-style: solid;
-    border-color: #FBB86C;
-    border-radius: 5px;
-    box-shadow: inset 0 0 0 1px rgba(24, 23, 23, 0)
+  border-style: solid;
+  border-color: #bd93f9;
+  border-radius: 2px;
+  box-shadow: inset 0 0 0 1px rgba(24, 23, 23, 0);
 }
 
 .pop-shell-overlay {
-    background-color: rgba(53, 132, 228, 0.3);
+  background-color: rgba(53, 132, 228, 0.3);
 }
 
 .pop-shell-border-normal {
-    border-width: 3px;
+  border-width: 1px;
 }
 
 .pop-shell-border-maximize {
-    border-width: 3px;
+  border-width: 1px;
 }
 
-.pop-shell-search-element:select{
-    background: rgba(246, 246, 246, .2);
-    border-radius: 5px;
-    color: #EDEDED;
+.pop-shell-search-element:select {
+  background: rgba(246, 246, 246, 0.2);
+  border-radius: 2px;
+  color: #ededed;
 }
 
 .pop-shell-search-label {
-    margin-left: 10px;
+  margin-left: 10px;
 }
 
 .pop-shell-search-cat {
-    margin-right: 15px;
+  margin-right: 15px;
 }
 
 .pop-shell-search-element {
-    padding-left: 10px;
-    padding-right: 2px;
-    padding-top: 6px;
-    padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 2px;
+  padding-top: 6px;
+  padding-bottom: 6px;
 }
 
 .pop-shell-gaps-entry {
-    /* Seems to get the width just right to fit 3 digits */
-    width: 75px;
+  /* Seems to get the width just right to fit 3 digits */
+  width: 75px;
 }
 
 .pop-shell-tab {
-    border: 1px solid #333;
-    color: #000;
-    padding: 0 1em;
+  border: 1px solid #333;
+  color: #000;
+  padding: 0 1em;
 }
 
 .pop-shell-tab-active {
-    background: #FBB86C;
+  background: #bd93f9;
 }
 
 .pop-shell-tab-inactive {
-    background: #9B8E8A;
+  background: #9b8e8a;
 }
 
 .pop-shell-tab-urgent {
-    background: #D00;
+  background: #d00;
 }
